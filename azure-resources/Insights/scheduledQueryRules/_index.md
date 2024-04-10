@@ -1,5 +1,5 @@
 ---
-title: Scheduledqueryrules
+title: scheduledQueryRules
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

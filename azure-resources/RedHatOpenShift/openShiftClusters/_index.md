@@ -1,5 +1,5 @@
 ---
-title: Openshiftclusters
+title: openShiftClusters
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

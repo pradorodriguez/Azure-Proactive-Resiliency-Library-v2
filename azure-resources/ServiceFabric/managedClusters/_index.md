@@ -1,5 +1,5 @@
 ---
-title: Managedclusters
+title: managedClusters
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Spaces
+title: spaces
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

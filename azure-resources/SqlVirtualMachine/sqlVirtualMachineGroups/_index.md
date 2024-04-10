@@ -1,5 +1,5 @@
 ---
-title: Sqlvirtualmachinegroups
+title: sqlVirtualMachineGroups
 geekdocCollapseSection: true
 geekdocHidden: true
 ---
