@@ -1,5 +1,5 @@
 ---
-title: ApplicationGatewayWebApplicationFirewallPolicies
+title: applicationGatewayWebApplicationFirewallPolicies
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

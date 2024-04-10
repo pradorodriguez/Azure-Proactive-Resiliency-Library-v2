@@ -1,5 +1,5 @@
 ---
-title: IotHubs
+title: iotHubs
 geekdocCollapseSection: true
 geekdocHidden: false
 ---

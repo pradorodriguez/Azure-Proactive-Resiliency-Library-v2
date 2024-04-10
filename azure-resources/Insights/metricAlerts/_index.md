@@ -1,5 +1,5 @@
 ---
-title: Metricalerts
+title: metricAlerts
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Clusterpools
+title: clusterPools
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

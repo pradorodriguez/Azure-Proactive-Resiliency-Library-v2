@@ -1,5 +1,5 @@
 ---
-title: Alerts Management
+title: alertsManagement
 geekdocCollapseSection: true
 geekdocHidden: false
 ---

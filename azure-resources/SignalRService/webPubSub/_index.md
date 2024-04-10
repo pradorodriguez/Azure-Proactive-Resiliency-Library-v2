@@ -1,5 +1,5 @@
 ---
-title: Webpubsub
+title: webPubSub
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

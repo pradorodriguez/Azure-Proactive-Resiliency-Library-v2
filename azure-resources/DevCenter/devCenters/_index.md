@@ -1,5 +1,5 @@
 ---
-title: Devcenters
+title: devCenters
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

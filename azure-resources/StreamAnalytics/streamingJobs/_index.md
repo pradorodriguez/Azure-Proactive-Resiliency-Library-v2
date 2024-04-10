@@ -1,5 +1,5 @@
 ---
-title: streamingjobs
+title: streamingJobs
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

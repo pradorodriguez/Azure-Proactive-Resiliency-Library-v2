@@ -1,5 +1,5 @@
 ---
-title: frontdoors
+title: frontDoors
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

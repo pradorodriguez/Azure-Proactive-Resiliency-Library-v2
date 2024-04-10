@@ -1,5 +1,5 @@
 ---
-title: Databoxedgedevices
+title: databoxedgedevices
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Alertrules
+title: alertRules
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

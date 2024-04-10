@@ -1,5 +1,5 @@
 ---
-title: FrontDoorWebApplicationFirewallPolicies
+title: frontDoorWebApplicationFirewallPolicies
 geekdocCollapseSection: true
 geekdocHidden: false
 ---

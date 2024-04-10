@@ -1,5 +1,5 @@
 ---
-title: SignalR
+title: signalR
 geekdocCollapseSection: true
 geekdocHidden: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: mediaservices
+title: mediaServices
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

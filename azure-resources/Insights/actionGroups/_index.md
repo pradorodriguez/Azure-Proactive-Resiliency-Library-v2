@@ -1,5 +1,5 @@
 ---
-title: Actiongroups
+title: actionGroups
 geekdocCollapseSection: true
 geekdocHidden: true
 ---

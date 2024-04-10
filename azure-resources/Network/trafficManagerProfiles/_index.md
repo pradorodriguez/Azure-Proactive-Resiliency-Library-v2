@@ -1,5 +1,5 @@
 ---
-title: trafficmanagerprofiles
+title: trafficManagerProfiles
 geekdocCollapseSection: true
 geekdocHidden: false
 ---

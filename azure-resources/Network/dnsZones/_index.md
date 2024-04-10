@@ -1,5 +1,5 @@
 ---
-title: dnszones
+title: dnsZones
 geekdocCollapseSection: true
 geekdocHidden: true
 ---
